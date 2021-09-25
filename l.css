@@ -1,0 +1,60 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+
+.emre{
+    
+    margin-top: 10px;
+    
+}
+#img1{
+    width: 10%;
+ 
+    
+ }
+
+
+#Buton1,#Buton2{
+    font-size: larger;
+    
+    color: beige;
+    background-color: chartreuse;
+    margin: auto;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#Buton1:hover,#Buton2:hover{
+    background-color: red;
+}
+
+#kaya{
+    color: blueviolet;
+    
+}
+
+p{
+    margin: auto;
+    direction: rtl;
+}
+
+ul {
+    list-style-position: outside;
+    
+}
+
+
+form{
+    border: 5px solid blue;
+    border-style: double;
+}
